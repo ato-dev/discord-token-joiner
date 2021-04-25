@@ -1,0 +1,21 @@
+{
+  "name": "wastyfirst",
+  "version": "A",
+  "main": "wasty.js",
+  "repository": {
+    "type": "git"
+  },
+  "author": "wasty",
+  "license": "wasty",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^11.4.2",
+    "express": "^4.17.1",
+    "node": "^15.12.0",
+    "ytdl-core": "^4.5.0"
+  },
+  "scripts": {
+    "start": "node wasty.js",
+    "test": "node wasty.js"
+  }
+}
